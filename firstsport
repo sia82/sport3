@@ -1,326 +1,430 @@
 #EXTM3U
-#EXTINF:-1,IR -  ANDISHEH TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18578.ts
-#EXTINF:-1,IR -  AL-ALAM EN
-http://magnum-ott.net:80/live/1234567890/1234567890/18579.ts
-#EXTINF:-1,IR -  AL-ALAM EN
-http://magnum-ott.net:80/live/1234567890/1234567890/18579.ts
-#EXTINF:-1,IR -  AL-ALAM AR
-http://magnum-ott.net:80/live/1234567890/1234567890/18580.ts
-#EXTINF:-1,IR -  AFNL MUSIC
-http://magnum-ott.net:80/live/1234567890/1234567890/18581.ts
-#EXTINF:-1,IR -  BBC PERSIAN
-http://magnum-ott.net:80/live/1234567890/1234567890/18646.ts
-#EXTINF:-1,IR -  CINE FILM
-http://magnum-ott.net:80/live/1234567890/1234567890/18575.ts
-#EXTINF:-1,IR -  CHANNEL 1
-http://magnum-ott.net:80/live/1234567890/1234567890/18576.ts
-#EXTINF:-1,IR -  CALTEX MUSIC
-http://magnum-ott.net:80/live/1234567890/1234567890/18577.ts
-#EXTINF:-1,IR -  DREAMLAND TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18574.ts
-#EXTINF:-1,IR -  EBC 1
-http://magnum-ott.net:80/live/1234567890/1234567890/18573.ts
-#EXTINF:-1,IR -  HTV NETWORK
-http://magnum-ott.net:80/live/1234567890/1234567890/18570.ts
-#EXTINF:-1,IR -  HTV FASHION
-http://magnum-ott.net:80/live/1234567890/1234567890/18571.ts
-#EXTINF:-1,IR -  HTV TOON
-http://magnum-ott.net:80/live/1234567890/1234567890/18569.ts
-#EXTINF:-1,IR -  HONARMANDAN
-http://magnum-ott.net:80/live/1234567890/1234567890/18572.ts
-#EXTINF:-1,IR -  IRIB NAMAYESH
-http://magnum-ott.net:80/live/1234567890/1234567890/18564.ts
-#EXTINF:-1,IR -  IRIB SHOMA
-http://magnum-ott.net:80/live/1234567890/1234567890/18563.ts
-#EXTINF:-1,IR -  I MUSIC
-http://magnum-ott.net:80/live/1234567890/1234567890/18568.ts
-#EXTINF:-1,IR -  ITN
-http://magnum-ott.net:80/live/1234567890/1234567890/18562.ts
-#EXTINF:-1,IR -  IRAN GOLD
-http://magnum-ott.net:80/live/1234567890/1234567890/18565.ts
-#EXTINF:-1,IR -  ICNET
-http://magnum-ott.net:80/live/1234567890/1234567890/18567.ts
-#EXTINF:-1,IR -  IMAM HUSSEIN
-http://magnum-ott.net:80/live/1234567890/1234567890/18566.ts
-#EXTINF:-1,IR -  KHATEREH TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18560.ts
-#EXTINF:-1,IR -  KANAL 20
-http://magnum-ott.net:80/live/1234567890/1234567890/18561.ts
-#EXTINF:-1,IR -  MOVIESTAR
-http://magnum-ott.net:80/live/1234567890/1234567890/18555.ts
-#EXTINF:-1,IR -  MERCI TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18558.ts
-#EXTINF:-1,IR -  MELLI TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18559.ts
-#EXTINF:-1,IR -  MIHAN TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18557.ts
-#EXTINF:-1,IR -  MOHABAT TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18556.ts
-#EXTINF:-1,IR -  MANOTO TV FHD
-http://magnum-ott.net:80/live/1234567890/1234567890/18643.ts
-#EXTINF:-1,IR -  MANOTO TV HD
-http://magnum-ott.net:80/live/1234567890/1234567890/18644.ts
-#EXTINF:-1,IR -  NASIM
-http://magnum-ott.net:80/live/1234567890/1234567890/18554.ts
-#EXTINF:-1,IR -  NEJAT TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18553.ts
-#EXTINF:-1,IR -  OMID IRAN TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18551.ts
-#EXTINF:-1,IR -  OMC
-http://magnum-ott.net:80/live/1234567890/1234567890/18552.ts
-#EXTINF:-1,IR -  PERSIAN BAZAR
-http://magnum-ott.net:80/live/1234567890/1234567890/18550.ts
-#EXTINF:-1,IR -  ROYAL TIME TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18544.ts
-#EXTINF:-1,IR -  RADIO FARDA TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18548.ts
-#EXTINF:-1,IR -  RAH-E-FARDA
-http://magnum-ott.net:80/live/1234567890/1234567890/18546.ts
-#EXTINF:-1,IR -  ROX1
-http://magnum-ott.net:80/live/1234567890/1234567890/18545.ts
-#EXTINF:-1,IR -  RADIO JAVAN TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18547.ts
-#EXTINF:-1,IR -  RADIO FARDA
-http://magnum-ott.net:80/live/1234567890/1234567890/18549.ts
-#EXTINF:-1,IR -  SAHAR AZADI
-http://magnum-ott.net:80/live/1234567890/1234567890/18538.ts
-#EXTINF:-1,IR -  SALAMAT
-http://magnum-ott.net:80/live/1234567890/1234567890/18543.ts
-#EXTINF:-1,IR -  SHABAKEH 7
-http://magnum-ott.net:80/live/1234567890/1234567890/18542.ts
-#EXTINF:-1,IR -  SIMAYE AZADI
-http://magnum-ott.net:80/live/1234567890/1234567890/18541.ts
-#EXTINF:-1,IR -  TV PERSIA
-http://magnum-ott.net:80/live/1234567890/1234567890/18536.ts
-#EXTINF:-1,IR -  TV PERSIA 1*
-http://magnum-ott.net:80/live/1234567890/1234567890/18537.ts
-#EXTINF:-1,IR -  TINTV
-http://magnum-ott.net:80/live/1234567890/1234567890/18539.ts
-#EXTINF:-1,IR -  TAPESH TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18540.ts
-#EXTINF:-1,IR -  U TOON TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18535.ts
-#EXTINF:-1,IR -  VOA TV PERSIAN-1
-http://magnum-ott.net:80/live/1234567890/1234567890/18645.ts
-#EXTINF:-1,IR -  VELAYAT TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18534.ts
-#EXTINF:-1,IR - 360Âª POP
-http://magnum-ott.net:80/live/1234567890/1234567890/18532.ts
-#EXTINF:-1,IR - 360Â° SERIAL
-http://magnum-ott.net:80/live/1234567890/1234567890/18533.ts
-#EXTINF:-1,IR - AZARBAYJAN-E GHARBI TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18530.ts
-#EXTINF:-1,IR - ASSIRAT TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18531.ts
-#EXTINF:-1,IR - BOUSHEHR TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18528.ts
-#EXTINF:-1,IR - BEITOLABBAS TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18529.ts
-#EXTINF:-1,IR - COMEDY CENTRAL
-http://magnum-ott.net:80/live/1234567890/1234567890/18527.ts
-#EXTINF:-1,IR - DENA TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18526.ts
-#EXTINF:-1,IR - FARS TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18525.ts
-#EXTINF:-1,IR - GEM KURD
-http://magnum-ott.net:80/live/1234567890/1234567890/18629.ts
-#EXTINF:-1,IR - GEM ARABIA
-http://magnum-ott.net:80/live/1234567890/1234567890/18634.ts
-#EXTINF:-1,IR - GEM FILM HD
-http://magnum-ott.net:80/live/1234567890/1234567890/18632.ts
-#EXTINF:-1,IR - GEM BOLLYWOOD
-http://magnum-ott.net:80/live/1234567890/1234567890/18633.ts
-#EXTINF:-1,IR - GEM JUNIOR
-http://magnum-ott.net:80/live/1234567890/1234567890/18631.ts
-#EXTINF:-1,IR - GEM KIDS
-http://magnum-ott.net:80/live/1234567890/1234567890/18630.ts
-#EXTINF:-1,IR - GEM SERIES
-http://magnum-ott.net:80/live/1234567890/1234567890/18626.ts
-#EXTINF:-1,IR - GEM TEEN
-http://magnum-ott.net:80/live/1234567890/1234567890/18625.ts
-#EXTINF:-1,IR - GEM LIFE
-http://magnum-ott.net:80/live/1234567890/1234567890/18628.ts
-#EXTINF:-1,IR - GEM MUSIC
-http://magnum-ott.net:80/live/1234567890/1234567890/18627.ts
-#EXTINF:-1,IR - GEM TRAVEL
-http://magnum-ott.net:80/live/1234567890/1234567890/18624.ts
-#EXTINF:-1,IR - GOLESTAN TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18523.ts
-#EXTINF:-1,IR - GUILAN TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18522.ts
-#EXTINF:-1,IR - GEM TURK
-http://magnum-ott.net:80/live/1234567890/1234567890/18623.ts
-#EXTINF:-1,IR - GEM TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18635.ts
-#EXTINF:-1,IR - GALA TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18524.ts
-#EXTINF:-1,IR - HONARMANDAN TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18514.ts
-#EXTINF:-1,IR - HAMEDAN TV SINA TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18519.ts
-#EXTINF:-1,IR - HAMOON TV ZAHEDAN
-http://magnum-ott.net:80/live/1234567890/1234567890/18518.ts
-#EXTINF:-1,IR - HADI TV3
-http://magnum-ott.net:80/live/1234567890/1234567890/18521.ts
-#EXTINF:-1,IR - HADI TV4
-http://magnum-ott.net:80/live/1234567890/1234567890/18520.ts
-#EXTINF:-1,IR - HODHOD FARSI
-http://magnum-ott.net:80/live/1234567890/1234567890/18516.ts
-#EXTINF:-1,IR - HISPAN TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18517.ts
-#EXTINF:-1,IR - HODHOD NILESAT
-http://magnum-ott.net:80/live/1234567890/1234567890/18515.ts
-#EXTINF:-1,IR - HP TV HIDDEN POWER TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18513.ts
-#EXTINF:-1,IR - ILAM TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18509.ts
-#EXTINF:-1,IR - IFILM TV AR
-http://magnum-ott.net:80/live/1234567890/1234567890/18510.ts
-#EXTINF:-1,IR - IRAN AFA
-http://magnum-ott.net:80/live/1234567890/1234567890/18508.ts
-#EXTINF:-1,IR - IFILM ENGLISH
-http://magnum-ott.net:80/live/1234567890/1234567890/18512.ts
-#EXTINF:-1,IR - IFILM TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18511.ts
-#EXTINF:-1,IR - IRAN INTERNATIONAL
-http://magnum-ott.net:80/live/1234567890/1234567890/18640.ts
-#EXTINF:-1,IR - IRIB ABADAN ABADAN TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18622.ts
-#EXTINF:-1,IR - IRAN GOLD STAR 1
-http://magnum-ott.net:80/live/1234567890/1234567890/18642.ts
-#EXTINF:-1,IR - IRAN GOLD STAR 2
-http://magnum-ott.net:80/live/1234567890/1234567890/18641.ts
-#EXTINF:-1,IR - IRIB NAMAYESH
-http://magnum-ott.net:80/live/1234567890/1234567890/18617.ts
-#EXTINF:-1,IR - IRIB NASIM
-http://magnum-ott.net:80/live/1234567890/1234567890/18616.ts
-#EXTINF:-1,IR - IRIB OFOGH
-http://magnum-ott.net:80/live/1234567890/1234567890/18615.ts
-#EXTINF:-1,IR - IRIB ALBORZ KARAJ TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18621.ts
-#EXTINF:-1,IR - IRIB MAHABAD
-http://magnum-ott.net:80/live/1234567890/1234567890/18619.ts
-#EXTINF:-1,IR - IRIB AMOOZESH
-http://magnum-ott.net:80/live/1234567890/1234567890/18620.ts
-#EXTINF:-1,IR - IRIB MOSTANAD HD
-http://magnum-ott.net:80/live/1234567890/1234567890/18618.ts
-#EXTINF:-1,IR - IRIB OMID
-http://magnum-ott.net:80/live/1234567890/1234567890/18614.ts
-#EXTINF:-1,IR - IRIB TV 1
-http://magnum-ott.net:80/live/1234567890/1234567890/18652.ts
-#EXTINF:-1,IR - IRIB TV 2
-http://magnum-ott.net:80/live/1234567890/1234567890/18651.ts
-#EXTINF:-1,IR - IRIB TV 3
-http://magnum-ott.net:80/live/1234567890/1234567890/18650.ts
-#EXTINF:-1,IR - IRIB TV 4
-http://magnum-ott.net:80/live/1234567890/1234567890/18649.ts
-#EXTINF:-1,IR - IRIB TV 5
-http://magnum-ott.net:80/live/1234567890/1234567890/18648.ts
-#EXTINF:-1,IR - IRIB QURAN
-http://magnum-ott.net:80/live/1234567890/1234567890/18613.ts
-#EXTINF:-1,IR - IRIB SALAMAT
-http://magnum-ott.net:80/live/1234567890/1234567890/18612.ts
-#EXTINF:-1,IR - IRIB SHOMA
-http://magnum-ott.net:80/live/1234567890/1234567890/18610.ts
-#EXTINF:-1,IR - IRIB VARZESH
-http://magnum-ott.net:80/live/1234567890/1234567890/18609.ts
-#EXTINF:-1,IR - IRIB SEMNAN
-http://magnum-ott.net:80/live/1234567890/1234567890/18611.ts
-#EXTINF:-1,IR - ITN TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18607.ts
-#EXTINF:-1,IR - ISFAHAN TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18608.ts
-#EXTINF:-1,IR - IRINN
-http://magnum-ott.net:80/live/1234567890/1234567890/18647.ts
-#EXTINF:-1,IR - JAME-JAM TV NETWORK
-http://magnum-ott.net:80/live/1234567890/1234567890/18605.ts
-#EXTINF:-1,IR - JAHANBIN TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18606.ts
-#EXTINF:-1,IR - KHALIJ-E FARS TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18602.ts
-#EXTINF:-1,IR - KERMANSHAH TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18603.ts
-#EXTINF:-1,IR - KERMAN TV IRIB OSTANI
-http://magnum-ott.net:80/live/1234567890/1234567890/18604.ts
-#EXTINF:-1,IR - KHATEREH 2
-http://magnum-ott.net:80/live/1234567890/1234567890/18601.ts
-#EXTINF:-1,IR - KHORASAN RAZAVI TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18599.ts
-#EXTINF:-1,IR - KHORASAN JONOOBI TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18600.ts
-#EXTINF:-1,IR - KIKA
-http://magnum-ott.net:80/live/1234567890/1234567890/18596.ts
-#EXTINF:-1,IR - KHOZESTAN TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18597.ts
-#EXTINF:-1,IR - KORDESTAN TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18595.ts
-#EXTINF:-1,IR - KHORASAN SHOMALI ATRAK TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18598.ts
-#EXTINF:-1,IR - LORESTAN TV AFLAK TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18594.ts
-#EXTINF:-1,IR - MIFA
-http://magnum-ott.net:80/live/1234567890/1234567890/18590.ts
-#EXTINF:-1,IR - MARKAZI TV AFTAB TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18592.ts
-#EXTINF:-1,IR - MOHABAT
-http://magnum-ott.net:80/live/1234567890/1234567890/18589.ts
-#EXTINF:-1,IR - MAZANDARAN TV TABARESTAN TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18591.ts
-#EXTINF:-1,IR - MOVIE 24
-http://magnum-ott.net:80/live/1234567890/1234567890/18588.ts
-#EXTINF:-1,IR - MARJAEYAT TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18593.ts
-#EXTINF:-1,IR - NR1 TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18586.ts
-#EXTINF:-1,IR - NAMA
-http://magnum-ott.net:80/live/1234567890/1234567890/18587.ts
-#EXTINF:-1,IR - PLUS FAMILY
-http://magnum-ott.net:80/live/1234567890/1234567890/18636.ts
-#EXTINF:-1,IR - PERSIAN STAR 1
-http://magnum-ott.net:80/live/1234567890/1234567890/18638.ts
-#EXTINF:-1,IR - PERSIAN STAR 2
-http://magnum-ott.net:80/live/1234567890/1234567890/18637.ts
-#EXTINF:-1,IR - PRESS TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18584.ts
-#EXTINF:-1,IR - POOYA TV NAHAL
-http://magnum-ott.net:80/live/1234567890/1234567890/18585.ts
-#EXTINF:-1,IR - PARS TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18639.ts
-#EXTINF:-1,IR - QOM TV IRIB NOOR
-http://magnum-ott.net:80/live/1234567890/1234567890/18582.ts
-#EXTINF:-1,IR - QAZVIN TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18583.ts
-#EXTINF:-1,IR - SAT-7 PARS
-http://magnum-ott.net:80/live/1234567890/1234567890/18501.ts
-#EXTINF:-1,IR - SAHAND TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18506.ts
-#EXTINF:-1,IR - SAHAR AZARI
-http://magnum-ott.net:80/live/1234567890/1234567890/18505.ts
-#EXTINF:-1,IR - SAHAR FRANCOPHONE
-http://magnum-ott.net:80/live/1234567890/1234567890/18503.ts
-#EXTINF:-1,IR - SAHAR URDU
-http://magnum-ott.net:80/live/1234567890/1234567890/18502.ts
-#EXTINF:-1,IR - SAHAR BOSNIAN
-http://magnum-ott.net:80/live/1234567890/1234567890/18504.ts
-#EXTINF:-1,IR - SABALAN TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18507.ts
-#EXTINF:-1,IR - TV PERSIA
-http://magnum-ott.net:80/live/1234567890/1234567890/18494.ts
-#EXTINF:-1,IR - TMTV
-http://magnum-ott.net:80/live/1234567890/1234567890/18499.ts
-#EXTINF:-1,IR - TOHEED
-http://magnum-ott.net:80/live/1234567890/1234567890/18498.ts
-#EXTINF:-1,IR - TOP TOON
-http://magnum-ott.net:80/live/1234567890/1234567890/18496.ts
-#EXTINF:-1,IR - TOP MOVIE
-http://magnum-ott.net:80/live/1234567890/1234567890/18497.ts
-#EXTINF:-1,IR - TV BEAUTY
-http://magnum-ott.net:80/live/1234567890/1234567890/18495.ts
-#EXTINF:-1,IR - TAK TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18500.ts
-#EXTINF:-1,IR - U TOON TV
-http://magnum-ott.net:80/live/1234567890/1234567890/18493.ts
-#EXTINF:-1,IR - YAZD TV TABAN
-http://magnum-ott.net:80/live/1234567890/1234567890/18492.ts
+#EXTINF:-1,AR:BeINSports_HD1
+http://forinone.org:25461/live/jamal/skype/5805.ts
+#EXTINF:-1,AR:BeINSports_HD2
+http://forinone.org:25461/live/jamal/skype/5806.ts
+#EXTINF:-1,AR:BeINSports_HD3
+http://forinone.org:25461/live/jamal/skype/5807.ts
+#EXTINF:-1,AR:BeINSports_HD4
+http://forinone.org:25461/live/jamal/skype/5808.ts
+#EXTINF:-1,AR:BeINSports_HD5
+http://forinone.org:25461/live/jamal/skype/5809.ts
+#EXTINF:-1,AR:BeINSports_HD6
+http://forinone.org:25461/live/jamal/skype/5810.ts
+#EXTINF:-1,AR:BeINSports_HD7
+http://forinone.org:25461/live/jamal/skype/5811.ts
+#EXTINF:-1,AR:BeINSports_HD8
+http://forinone.org:25461/live/jamal/skype/5812.ts
+#EXTINF:-1,AR:BeINSports_HD9
+http://forinone.org:25461/live/jamal/skype/5813.ts
+#EXTINF:-1,AR:beINSPORTS_10HD
+http://forinone.org:25461/live/jamal/skype/5814.ts
+#EXTINF:-1,AR:BEINSPORTS_11HD
+http://forinone.org:25461/live/jamal/skype/5815.ts
+#EXTINF:-1,AR:BEINSPORT_13HD
+http://forinone.org:25461/live/jamal/skype/5816.ts
+#EXTINF:-1,AR:BEINSPORT_14HD
+http://forinone.org:25461/live/jamal/skype/5817.ts
+#EXTINF:-1,AR:BEINSPORT_15HD
+http://forinone.org:25461/live/jamal/skype/5818.ts
+#EXTINF:-1,AR:BEINSPORT_16HD
+http://forinone.org:25461/live/jamal/skype/5819.ts
+#EXTINF:-1,Bein Sports 1 SD
+http://dafsports.ddns.net:86/live/Azzeddine_iptv/Best_for_YOU/87.ts
+#EXTINF:-1,Bein Sports 2 SD
+http://dafsports.ddns.net:86/live/Azzeddine_iptv/Best_for_YOU/106.ts
+#EXTINF:-1,Bein Sports 3 SD
+http://dafsports.ddns.net:86/live/Azzeddine_iptv/Best_for_YOU/107.ts
+#EXTINF:-1,Bein Sports 4 SD
+http://dafsports.ddns.net:86/live/Azzeddine_iptv/Best_for_YOU/108.ts
+#EXTINF:-1,Bein Sports 5 SD
+http://dafsports.ddns.net:86/live/Azzeddine_iptv/Best_for_YOU/134.ts
+#EXTINF:-1,Bein Sports 6 SD
+http://dafsports.ddns.net:86/live/Azzeddine_iptv/Best_for_YOU/136.ts
+#EXTINF:-1,BeINSPORTS News
+http://dafsports.ddns.net:86/live/Azzeddine_iptv/Best_for_YOU/113.ts
+#EXTINF:-1,BeINSPORTS Global
+http://dafsports.ddns.net:86/live/Azzeddine_iptv/Best_for_YOU/114.ts
+#EXTINF:-1,Bein Sports 1 hd
+http://dafsports.ddns.net:86/live/Azzeddine_iptv/Best_for_YOU/42.ts
+#EXTINF:-1,Bein Sports 2 hd
+http://dafsports.ddns.net:86/live/Azzeddine_iptv/Best_for_YOU/43.ts
+#EXTINF:-1,Bein Sports 3 hd
+http://dafsports.ddns.net:86/live/Azzeddine_iptv/Best_for_YOU/44.ts
+#EXTINF:-1,Bein Sports 4 hd
+http://dafsports.ddns.net:86/live/Azzeddine_iptv/Best_for_YOU/45.ts
+#EXTINF:-1,Bein Sports 5 hd
+http://dafsports.ddns.net:86/live/Azzeddine_iptv/Best_for_YOU/46.ts
+#EXTINF:-1,Bein Sports 6 hd
+http://dafsports.ddns.net:86/live/Azzeddine_iptv/Best_for_YOU/47.ts
+#EXTINF:-1,Bein Sports 7 hd
+http://dafsports.ddns.net:86/live/Azzeddine_iptv/Best_for_YOU/48.ts
+#EXTINF:-1,Bein Sports 8 hd
+http://dafsports.ddns.net:86/live/Azzeddine_iptv/Best_for_YOU/49.ts
+#EXTINF:-1,Bein Sports 9 hd
+http://dafsports.ddns.net:86/live/Azzeddine_iptv/Best_for_YOU/50.ts
+#EXTINF:-1,Bein Sports 10 hd
+http://dafsports.ddns.net:86/live/Azzeddine_iptv/Best_for_YOU/51.ts
+#EXTINF:-1,Bein Sports 1 L
+http://dafsports.ddns.net:86/live/Azzeddine_iptv/Best_for_YOU/141.ts
+#EXTINF:-1,Bein Sports 2 L
+http://dafsports.ddns.net:86/live/Azzeddine_iptv/Best_for_YOU/142.ts
+#EXTINF:-1,Bein Sports 3 L
+http://dafsports.ddns.net:86/live/Azzeddine_iptv/Best_for_YOU/143.ts
+#EXTINF:-1,Bein Sports 4 L
+http://dafsports.ddns.net:86/live/Azzeddine_iptv/Best_for_YOU/144.ts
+#EXTINF:-1,Bein Sports 5 L
+http://dafsports.ddns.net:86/live/Azzeddine_iptv/Best_for_YOU/145.ts
+#EXTINF:-1,Bein Sports 6 L
+http://dafsports.ddns.net:86/live/Azzeddine_iptv/Best_for_YOU/146.ts
+#EXTINF:-1,Bein Sports 7 L
+http://dafsports.ddns.net:86/live/Azzeddine_iptv/Best_for_YOU/147.ts
+#EXTINF:-1,Bein Sports 8 L
+http://dafsports.ddns.net:86/live/Azzeddine_iptv/Best_for_YOU/148.ts
+#EXTINF:-1,Bein Sports 9 L
+http://dafsports.ddns.net:86/live/Azzeddine_iptv/Best_for_YOU/149.ts
+#EXTINF:-1,Bein Sports  10 L
+http://dafsports.ddns.net:86/live/Azzeddine_iptv/Best_for_YOU/150.ts
+#EXTINF:-1,Bein Sports FR 1
+http://dafsports.ddns.net:86/live/Azzeddine_iptv/Best_for_YOU/35.ts
+#EXTINF:-1,Bein Sports FR 2
+http://dafsports.ddns.net:86/live/Azzeddine_iptv/Best_for_YOU/36.ts
+#EXTINF:-1,Bein Sports FR 3
+http://dafsports.ddns.net:86/live/Azzeddine_iptv/Best_for_YOU/37.ts
 
+#EXTINF:-1,Bein HD1
+http://yacinetv1.ddns.net:8000/live/beinhd001/beinhd001/215.ts
+#EXTINF:-1,Bein HD2
+http://yacinetv1.ddns.net:8000/live/beinhd001/beinhd001/214.ts
+#EXTINF:-1,Bein HD3
+http://yacinetv1.ddns.net:8000/live/beinhd001/beinhd001/213.ts
+#EXTINF:-1,Bein HD4
+http://yacinetv1.ddns.net:8000/live/beinhd001/beinhd001/212.ts
+#EXTINF:-1,Bein HD5
+http://yacinetv1.ddns.net:8000/live/beinhd001/beinhd001/211.ts
+#EXTINF:-1,Bein HD6
+http://yacinetv1.ddns.net:8000/live/beinhd001/beinhd001/210.ts
+#EXTINF:-1,Bein HD7
+http://yacinetv1.ddns.net:8000/live/beinhd001/beinhd001/209.ts
+#EXTINF:-1,Bein HD8
+http://yacinetv1.ddns.net:8000/live/beinhd001/beinhd001/208.ts
+#EXTINF:-1,Bein HD9
+http://yacinetv1.ddns.net:8000/live/beinhd001/beinhd001/207.ts
+#EXTINF:-1,Bein Sport News
+http://yacinetv1.ddns.net:8000/live/beinhd001/beinhd001/146.ts
+#EXTINF:-1,Alkass One HD
+http://212.8.242.102:25461/live/burhan/burhan/3146.ts
+#EXTINF:-1,Alkass Two HD
+http://212.8.242.102:25461/live/burhan/burhan/3145.ts
+#EXTINF:-1,Alkass Four HD
+http://212.8.242.102:25461/live/burhan/burhan/3143.ts
+#EXTINF:-1,Alkass Five HD
+http://212.8.242.102:25461/live/burhan/burhan/3142.ts
+#EXTINF:-1,ON Sport
+http://212.8.242.102:25461/live/burhan/burhan/2913.ts
+#EXTINF:-1,YAS Sports HD
+http://212.8.242.102:25461/live/burhan/burhan/4443.ts
+#EXTINF:-1,AD Sport1
+http://212.8.242.102:25461/live/burhan/burhan/3137.ts
+#EXTINF:-1,AD Sport2
+http://212.8.242.102:25461/live/burhan/burhan/3135.ts
+#EXTINF:-1,AD Sport3
+http://212.8.242.102:25461/live/burhan/burhan/3134.ts
+#EXTINF:-1,AD Sport4
+http://212.8.242.102:25461/live/burhan/burhan/10367.ts
+#EXTINF:-1,Dubai Sport 1
+http://212.8.242.102:25461/live/burhan/burhan/3129.ts
+#EXTINF:-1,Dubai Sports 2
+http://212.8.242.102:25461/live/burhan/burhan/6383.ts
+#EXTINF:-1,Dubai Sports 3
+http://212.8.242.102:25461/live/burhan/burhan/3128.ts
+#EXTINF:-1,Dubai Racing 1
+http://212.8.242.102:25461/live/burhan/burhan/9059.ts
+#EXTINF:-1,Dubai Racing 2
+http://212.8.242.102:25461/live/burhan/burhan/6384.ts
+#EXTINF:-1,Dubai Racing 3
+http://212.8.242.102:25461/live/burhan/burhan/3126.ts
+#EXTINF:-1,Dawri Plus 1
+http://212.8.242.102:25461/live/burhan/burhan/3141.ts
+#EXTINF:-1,Dawri Plus 2
+http://212.8.242.102:25461/live/burhan/burhan/3140.ts
+#EXTINF:-1,Dawri Plus 3
+http://212.8.242.102:25461/live/burhan/burhan/3139.ts
+#EXTINF:-1,Dawri Plus 4
+http://212.8.242.102:25461/live/burhan/burhan/3138.ts
+#EXTINF:-1,Saudi Sport
+http://212.8.242.102:25461/live/burhan/burhan/4353.ts
+#EXTINF:-1,DMC Sports
+http://212.8.242.102:25461/live/burhan/burhan/2910.ts
+#EXTINF:-1,KTV Sport HD
+http://212.8.242.102:25461/live/burhan/burhan/3123.ts
+#EXTINF:-1,--------beIN SPORTS--------
+http://212.8.242.102:25461/live/burhan/burhan/3168.ts
+#EXTINF:-1,beIN SPORTS HD1
+http://212.8.242.102:25461/live/burhan/burhan/12075.ts
+#EXTINF:-1,beIN SPORTS HD2
+http://212.8.242.102:25461/live/burhan/burhan/12076.ts
+#EXTINF:-1,beIN SPORTS HD3
+http://212.8.242.102:25461/live/burhan/burhan/3165.ts
+#EXTINF:-1,beIN SPORTS HD4
+http://212.8.242.102:25461/live/burhan/burhan/3164.ts
+#EXTINF:-1,beIN SPORTS HD5
+http://212.8.242.102:25461/live/burhan/burhan/3163.ts
+#EXTINF:-1,beIN SPORTS HD6
+http://212.8.242.102:25461/live/burhan/burhan/3162.ts
+#EXTINF:-1,beIN SPORTS HD7
+http://212.8.242.102:25461/live/burhan/burhan/3161.ts
+#EXTINF:-1,beIN SPORTS HD8
+http://212.8.242.102:25461/live/burhan/burhan/3160.ts
+#EXTINF:-1,beIN SPORTS HD9
+http://212.8.242.102:25461/live/burhan/burhan/3159.ts
+#EXTINF:-1,beIN SPORTS HD10
+http://212.8.242.102:25461/live/burhan/burhan/3158.ts
+#EXTINF:-1,beIN SPORTS NEWS HD
+http://212.8.242.102:25461/live/burhan/burhan/3150.ts
+#EXTINF:-1,beIN SPORTS HD11
+http://212.8.242.102:25461/live/burhan/burhan/3157.ts
+#EXTINF:-1,beIN SPORTS HD12
+http://212.8.242.102:25461/live/burhan/burhan/3156.ts
+#EXTINF:-1,BeIN SPORTS1 sd
+http://212.8.242.102:25461/live/burhan/burhan/12068.ts
+#EXTINF:-1,BeIN SPORTS2 sd
+http://212.8.242.102:25461/live/burhan/burhan/12067.ts
+#EXTINF:-1,BeIN SPORTS3 sd
+http://212.8.242.102:25461/live/burhan/burhan/11876.ts
+#EXTINF:-1,BeIN SPORTS4 sd
+http://212.8.242.102:25461/live/burhan/burhan/11875.ts
+#EXTINF:-1,BeIN SPORTS5 sd
+http://212.8.242.102:25461/live/burhan/burhan/11874.ts
+#EXTINF:-1,BeIN SPORTS6 sd
+http://212.8.242.102:25461/live/burhan/burhan/11873.ts
+#EXTINF:-1,BeIN SPORTS7 sd
+http://212.8.242.102:25461/live/burhan/burhan/11872.ts
+
+#EXTINF:-1,NL:FOX_SPORTS_1_HD
+http://forinone.org:25461/live/jamal/skype/6384.ts
+#EXTINF:-1,NL:FOX_SPORTS_2
+http://forinone.org:25461/live/jamal/skype/6385.ts
+#EXTINF:-1,NL:FOX_SPORTS_3
+http://forinone.org:25461/live/jamal/skype/6386.ts
+#EXTINF:-1,NL:FOX_SPORT4_HD
+http://forinone.org:25461/live/jamal/skype/6387.ts
+#EXTINF:-1,NL:FOX_SPORT5_HD
+http://forinone.org:25461/live/jamal/skype/6388.ts
+#EXTINF:-1,NL:FOX_SPORT_6
+http://forinone.org:25461/live/jamal/skype/6389.ts
+
+#EXTINF:-1,Canal+ Sport
+http://212.8.242.102:25461/live/burhan/burhan/12072.ts
+#EXTINF:-1,RMC Sport 1
+http://212.8.242.102:25461/live/burhan/burhan/12069.ts
+#EXTINF:-1,RMC Sport 2
+http://212.8.242.102:25461/live/burhan/burhan/5472.ts
+#EXTINF:-1,RMC Sport 3
+http://212.8.242.102:25461/live/burhan/burhan/5471.ts
+#EXTINF:-1,RMC Sport 5
+http://212.8.242.102:25461/live/burhan/burhan/5470.ts
+#EXTINF:-1,Bein Sport HD 1
+http://212.8.242.102:25461/live/burhan/burhan/12070.ts
+#EXTINF:-1,Bein Sport HD 2
+http://212.8.242.102:25461/live/burhan/burhan/12074.ts
+#EXTINF:-1,Bein Sport HD 3
+http://212.8.242.102:25461/live/burhan/burhan/12065.ts
+#EXTINF:-1,beIN Sports max 4 HD
+http://212.8.242.102:25461/live/burhan/burhan/3285.ts
+#EXTINF:-1,beIN Sports max 5 HD
+http://212.8.242.102:25461/live/burhan/burhan/3284.ts
+#EXTINF:-1,beIN Sports max 6 HD
+http://212.8.242.102:25461/live/burhan/burhan/3286.ts
+#EXTINF:-1,beIN Sports max 7 HD
+http://212.8.242.102:25461/live/burhan/burhan/3283.ts
+#EXTINF:-1,beIN Sports max 8 HD
+http://212.8.242.102:25461/live/burhan/burhan/3282.ts
+#EXTINF:-1,beIN Sports max 9 HD
+http://212.8.242.102:25461/live/burhan/burhan/11454.ts
+#EXTINF:-1,beIN Sports max 10 HD
+http://212.8.242.102:25461/live/burhan/burhan/11455.ts
+#EXTINF:-1,Infosport
+http://212.8.242.102:25461/live/burhan/burhan/5466.ts
+#EXTINF:-1,Eurosport 1
+http://212.8.242.102:25461/live/burhan/burhan/3277.ts
+#EXTINF:-1,Eurosport 2
+http://212.8.242.102:25461/live/burhan/burhan/3276.ts
+#EXTINF:-1,OL TV
+http://212.8.242.102:25461/live/burhan/burhan/10361.ts
+#EXTINF:-1,Foot 24
+http://212.8.242.102:25461/live/burhan/burhan/3278.ts
+#EXTINF:-1,BFM Sport
+http://212.8.242.102:25461/live/burhan/burhan/10363.ts
+#EXTINF:-1,Equidia Live
+http://212.8.242.102:25461/live/burhan/burhan/5467.ts
+#EXTINF:-1,L'équipe 21
+http://212.8.242.102:25461/live/burhan/burhan/5465.ts
+#EXTINF:-1,AB Moteurs
+http://212.8.242.102:25461/live/burhan/burhan/3335.ts
+#EXTINF:-1,Motorsport Tv.
+http://212.8.242.102:25461/live/burhan/burhan/10674.ts
+#EXTINF:-1,Golf
+http://212.8.242.102:25461/live/burhan/burhan/5464.ts
+#EXTINF:-1,Golf+
+http://212.8.242.102:25461/live/burhan/burhan/10148.ts
+
+#EXTINF:-1,MySports HD
+http://212.8.242.102:25461/live/burhan/burhan/11256.ts
+#EXTINF:-1,MySports 1 HD
+http://212.8.242.102:25461/live/burhan/burhan/11247.ts
+#EXTINF:-1,MySports 2 HD
+http://212.8.242.102:25461/live/burhan/burhan/11248.ts
+#EXTINF:-1,MySports 3 HD
+http://212.8.242.102:25461/live/burhan/burhan/11249.ts
+#EXTINF:-1,MySports 4 HD
+http://212.8.242.102:25461/live/burhan/burhan/11250.ts
+#EXTINF:-1,MySports 5 HD
+http://212.8.242.102:25461/live/burhan/burhan/11251.ts
+#EXTINF:-1,MySports 6 HD
+http://212.8.242.102:25461/live/burhan/burhan/11252.ts
+#EXTINF:-1,MySports 7 HD
+http://212.8.242.102:25461/live/burhan/burhan/11253.ts
+#EXTINF:-1,MySports 8 HD
+http://212.8.242.102:25461/live/burhan/burhan/11254.ts
+#EXTINF:-1,MySports 9 HD
+http://212.8.242.102:25461/live/burhan/burhan/11255.ts
+
+#EXTINF:-1,Sky Sport News. HD
+http://212.8.242.102:25461/live/burhan/burhan/3439.ts
+#EXTINF:-1,Sky Sport Austria
+http://212.8.242.102:25461/live/burhan/burhan/3398.ts
+#EXTINF:-1,Eurosport 1 HD
+http://212.8.242.102:25461/live/burhan/burhan/9129.ts
+#EXTINF:-1,Euro sport 2 HD
+http://212.8.242.102:25461/live/burhan/burhan/9130.ts
+#EXTINF:-1,eurosport 2 Extra HD
+http://212.8.242.102:25461/live/burhan/burhan/9199.ts
+#EXTINF:-1,SPORT 1 HD
+http://212.8.242.102:25461/live/burhan/burhan/7118.ts
+#EXTINF:-1,DAZN 1
+http://212.8.242.102:25461/live/burhan/burhan/11405.ts
+#EXTINF:-1,DAZN 2
+http://212.8.242.102:25461/live/burhan/burhan/11406.ts
+#EXTINF:-1,Sky Sport.1
+http://212.8.242.102:25461/live/burhan/burhan/3415.ts
+#EXTINF:-1,Sky Sport.2
+http://212.8.242.102:25461/live/burhan/burhan/3414.ts
+#EXTINF:-1,sky sport.3
+http://212.8.242.102:25461/live/burhan/burhan/9435.ts
+#EXTINF:-1,sky sport.4
+http://212.8.242.102:25461/live/burhan/burhan/9436.ts
+#EXTINF:-1,sky sport.5
+http://212.8.242.102:25461/live/burhan/burhan/9437.ts
+#EXTINF:-1,sky sport.6
+http://212.8.242.102:25461/live/burhan/burhan/9438.ts
+#EXTINF:-1,sky sport.7
+http://212.8.242.102:25461/live/burhan/burhan/9439.ts
+#EXTINF:-1,sky sport.8
+http://212.8.242.102:25461/live/burhan/burhan/9440.ts
+#EXTINF:-1,sky sport.9
+http://212.8.242.102:25461/live/burhan/burhan/9441.ts
+#EXTINF:-1,sky sport.10
+http://212.8.242.102:25461/live/burhan/burhan/9442.ts
+#EXTINF:-1,Sky.Sport Bundesliga1
+http://212.8.242.102:25461/live/burhan/burhan/3413.ts
+#EXTINF:-1,Sky Sport Bundesliga1 HD
+http://212.8.242.102:25461/live/burhan/burhan/8687.ts
+#EXTINF:-1,Sky.Sport .Bundesliga2
+http://212.8.242.102:25461/live/burhan/burhan/3412.ts
+#EXTINF:-1,sky bundesliga 3
+http://212.8.242.102:25461/live/burhan/burhan/9443.ts
+#EXTINF:-1,sky bundesliga 4
+http://212.8.242.102:25461/live/burhan/burhan/9444.ts
+#EXTINF:-1,sky bundesliga 5
+http://212.8.242.102:25461/live/burhan/burhan/9445.ts
+#EXTINF:-1,sky bundesliga 6
+http://212.8.242.102:25461/live/burhan/burhan/9446.ts
+#EXTINF:-1,sky bundesliga 7
+http://212.8.242.102:25461/live/burhan/burhan/9447.ts
+#EXTINF:-1,sky bundesliga 8
+http://212.8.242.102:25461/live/burhan/burhan/9448.ts
+#EXTINF:-1,sky bundesliga 9
+http://212.8.242.102:25461/live/burhan/burhan/9449.ts
+#EXTINF:-1,sky bundesliga 10
+http://212.8.242.102:25461/live/burhan/burhan/9450.ts
+
+#EXTINF:-1,Rai Sport 1
+http://212.8.242.102:25461/live/burhan/burhan/3500.ts
+#EXTINF:-1,Rai Sport 2
+http://212.8.242.102:25461/live/burhan/burhan/3499.ts
+#EXTINF:-1,Sport Italia
+http://212.8.242.102:25461/live/burhan/burhan/3532.ts
+#EXTINF:-1,Eurosport 2 HD
+http://212.8.242.102:25461/live/burhan/burhan/4520.ts
+#EXTINF:-1,Sky Calcio 1
+http://212.8.242.102:25461/live/burhan/burhan/3479.ts
+#EXTINF:-1,Sky Calcio 2
+http://212.8.242.102:25461/live/burhan/burhan/11456.ts
+#EXTINF:-1,Sky Calcio 3
+http://212.8.242.102:25461/live/burhan/burhan/11457.ts
+#EXTINF:-1,Sky.Sport24
+http://212.8.242.102:25461/live/burhan/burhan/3478.ts
+#EXTINF:-1,Sky Moto GP
+http://212.8.242.102:25461/live/burhan/burhan/3528.ts
+#EXTINF:-1,Super Tennis
+http://212.8.242.102:25461/live/burhan/burhan/3533.ts
+#EXTINF:-1,FOX' SPORTS
+http://212.8.242.102:25461/live/burhan/burhan/3484.ts
+#EXTINF:-1,Sky Supercalcio
+http://212.8.242.102:25461/live/burhan/burhan/3530.ts
+#EXTINF:-1,Premium Sport
+http://212.8.242.102:25461/live/burhan/burhan/3569.ts
+#EXTINF:-1,Premium Sport 2
+http://212.8.242.102:25461/live/burhan/burhan/3570.ts
+#EXTINF:-1,Premium Calcio 1
+http://212.8.242.102:25461/live/burhan/burhan/3552.ts
+#EXTINF:-1,Dazn 1 HD
+http://212.8.242.102:25461/live/burhan/burhan/3551.ts
+#EXTINF:-1,Dazn 2 HD
+http://212.8.242.102:25461/live/burhan/burhan/3550.ts
+#EXTINF:-1,Dazn 5 HD
+http://212.8.242.102:25461/live/burhan/burhan/3549.ts
+#EXTINF:-1,Dazn 3 HD
+http://212.8.242.102:25461/live/burhan/burhan/3553.ts
+#EXTINF:-1,Dazn 4 HD
+http://212.8.242.102:25461/live/burhan/burhan/3559.ts
+
+#EXTINF:-1,Eir Sport1
+http://212.8.242.102:25461/live/burhan/burhan/4765.ts
+#EXTINF:-1,Eir Sport 2
+http://212.8.242.102:25461/live/burhan/burhan/4740.ts
+#EXTINF:-1,Sky Sports News UK
+http://212.8.242.102:25461/live/burhan/burhan/4785.ts
+#EXTINF:-1,Sky Sports Action
+http://212.8.242.102:25461/live/burhan/burhan/4783.ts
+#EXTINF:-1,Sky Sports F1
+http://212.8.242.102:25461/live/burhan/burhan/4778.ts
+#EXTINF:-1,Sky Sports 5 HD
+http://212.8.242.102:25461/live/burhan/burhan/4779.ts
+#EXTINF:-1,Sky Sports Main Event
+http://212.8.242.102:25461/live/burhan/burhan/4784.ts
+#EXTINF:-1,Sky Sports MIX
+http://212.8.242.102:25461/live/burhan/burhan/4782.ts
+#EXTINF:-1,Sky Sports Cricket
+http://212.8.242.102:25461/live/burhan/burhan/4781.ts
+#EXTINF:-1,Bt Sport Extra1
+http://212.8.242.102:25461/live/burhan/burhan/4746.ts
+#EXTINF:-1,Sky Sports Golf
+http://212.8.242.102:25461/live/burhan/burhan/4780.ts
+#EXTINF:-1,BT Sports 1
+http://212.8.242.102:25461/live/burhan/burhan/4777.ts
+#EXTINF:-1,BT Sports 2
+http://212.8.242.102:25461/live/burhan/burhan/4776.ts
+#EXTINF:-1,BT Sports 3
+http://212.8.242.102:25461/live/burhan/burhan/4775.ts
+#EXTINF:-1,BT Sport Extra_2
+http://212.8.242.102:25461/live/burhan/burhan/4745.ts
+#EXTINF:-1,BT Sport Extra 3
+http://212.8.242.102:25461/live/burhan/burhan/4744.ts
+#EXTINF:-1,BT Sport Extra 4
+http://212.8.242.102:25461/live/burhan/burhan/4743.ts
+#EXTINF:-1,BT Sport ESPN
+http://212.8.242.102:25461/live/burhan/burhan/4742.ts
+#EXTINF:-1,BT Sports ESPN
+http://212.8.242.102:25461/live/burhan/burhan/4774.ts
