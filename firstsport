@@ -892,3 +892,39 @@ http://yasiptv.com:8080/live/test/test/65.ts
 http://yasiptv.com:8080/live/test/test/66.ts
 #EXTINF:-1,BEIN SPORTS 10 720P
 http://yasiptv.com:8080/live/test/test/67.ts
+EXTINF:-1,IR:VARZIESH 1000
+http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/1572.ts
+EXTINF:-1,IR:TV 3
+http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/1575.ts
+EXTINF:-1,IR:RTE NEWS
+http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/1559.ts
+EXTINF:-1,IR:RTE 2 HD
+http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/1561.ts
+EXTINF:-1,IR:RATE 1 HD
+http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/1560.ts
+EXTINF:-1,IR:PMC
+http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/1576.ts
+EXTINF:-1,IR:I FILM ENGLISH
+http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/1562.ts
+EXTINF:-1,IR:GEM TV
+http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/1563.ts
+EXTINF:-1,IR:GEM TURK
+http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/1564.ts
+EXTINF:-1,IR:GEM SERIES
+http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/1566.ts
+EXTINF:-1,IR:GEM RUBIX
+http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/1574.ts
+EXTINF:-1,IR:GEM MUSIC
+http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/1567.ts
+EXTINF:-1,IR:GEM MIFA
+http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/1565.ts
+EXTINF:-1,IR:GEM LIFE
+http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/1568.ts
+EXTINF:-1,IR:GEM KURD
+http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/1569.ts
+EXTINF:-1,IR:GEM KIDS
+http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/1570.ts
+EXTINF:-1,IR:GEM JUNIOR
+http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/1571.ts
+EXTINF:-1,IR:GEM BOLLYWOOD
+http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/1573.ts
